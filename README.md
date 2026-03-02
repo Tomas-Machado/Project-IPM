@@ -1,35 +1,42 @@
-IPM Project
-This project is a web application developed using Vue.js 3 for the Human-Computer Interaction (Interação Pessoa-Máquina - IPM) course. The application focuses on data visualization and comparison, specifically regarding city data and accommodations, utilizing interactive maps and dynamic charts.
+# 🌍 IPM Project - City & Accommodation Analyzer
 
-📂 Project Content
-The project is organized with the following structure and features:
+An interactive web application developed for the **Human-Computer Interaction** (Interação Pessoa-Máquina) course. This platform enables users to explore, analyze, and compare urban accommodation data through intuitive maps and dynamic visualizations.
 
-Core Technologies: Built with Vue 3 as the main framework and Vite as the build tool.
+## 🚀 Key Features
 
-Data Visualization:
+* **Interactive Mapping**: View precise accommodation locations using an integrated map interface powered by **Leaflet**.
+* **Data Analytics**: Gain insights through dynamic charts, including room types, licensing status, and overall distribution.
+* **City Comparison**: A dedicated tool to evaluate and compare different cities side-by-side.
+* **User Management**: Includes a structured navigation system with Login and User Profile views.
+* **Automated Data Processing**: Features specialized Python scripts to process and convert raw CSV data into usable JSON formats.
 
-  Maps: Integration with Leaflet via the @vue-leaflet/vue-leaflet library to provide geospatial views of locations.
+## 🛠️ Technology Stack
 
-  Charts: Powered by Chart.js and vue-chartjs, featuring components like ChartDoughnut.vue, ChartRoomType.vue, and ChartLicense.vue to display analytical data.
+* **Framework**: [Vue.js 3](https://vuejs.org/) (Composition API).
+* **Build Tool**: [Vite](https://vitejs.dev/).
+* **Maps**: [Vue Leaflet](https://vue-leaflet.github.io/vue-leaflet/).
+* **Charts**: [Chart.js](https://www.chartjs.org/) via `vue-chartjs`.
+* **Routing**: [Vue Router](https://router.vuejs.org/).
 
-Navigation: Managed by Vue Router, allowing users to switch between various views including Home, Map, Comparison, and User Profile.
+## 📂 Project Structure
 
-Styling: Centralized CSS located in src/assets/styles.css.
+* `src/components/`: Modular UI components for charts, filters, and views.
+* `src/data/`: Core datasets (`db.json`, `listings.csv`) and data-building scripts.
+* `src/assets/`: Static resources including CSS styles and city-specific imagery.
 
-Data Management: Includes a Python script (build_jsondb.py) for data processing and local storage in JSON and CSV formats (e.g., db.json, listings.csv).
+## 🏁 Getting Started
 
-🚀 How to Run the Project
-To run this project locally, follow these steps:
+Follow these steps to set up the project locally:
 
-1. Prerequisites
-Ensure you have Node.js installed on your system.
+### 1. Prerequisites
+Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
-2. Install Dependencies
-Open your terminal in the project's root directory and run the following command to install all necessary libraries:
-  npm install
+### 2. Installation
+Navigate to the project root and install the necessary dependencies:
+npm install
 
-3. Run in Development Mode
-To start the local server and view the application, use:
-  npm run dev
+### 3. Development Server
+Run the application locally with hot-reload:
+npm run dev
 
-The terminal will provide a local URL (typically http://localhost:5173/) where you can access the project in your browser.
+Open your browser and navigate to the local address provided (typically http://localhost:5173/)
