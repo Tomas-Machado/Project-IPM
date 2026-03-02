@@ -1,0 +1,334 @@
+{
+  "profiles.users": {
+    "jose": "cientista",
+    "maria": "vereadora",
+    "antonio": "estudante"
+  },
+  "porto.listings": [
+    {
+      "id": 41339,
+      "name": "Porto city flat near the sea",
+      "host_name": "Paula",
+      "neighbourhood_group": "PORTO",
+      "price": 69.0,
+      "last_review": "2025-09-09",
+      "license": "29049/AL"
+    },
+    {
+      "id": 55111,
+      "name": "Fontielas Houses |Floor1 in House with shared Pool",
+      "host_name": "Isabel E João",
+      "neighbourhood_group": "PAREDES",
+      "price": null,
+      "last_review": "2025-08-30",
+      "license": "7563/AL"
+    },
+    {
+      "id": 73828,
+      "name": "Fontielas Houses |Floor0 in House with shared Pool",
+      "host_name": "Isabel E João",
+      "neighbourhood_group": "PAREDES",
+      "price": null,
+      "last_review": "2025-08-31",
+      "license": "7563/AL"
+    },
+    {
+      "id": 87873,
+      "name": "Oporto Apartment Triplex",
+      "host_name": "Paula",
+      "neighbourhood_group": "PORTO",
+      "price": 108.0,
+      "last_review": "2025-09-14",
+      "license": "634/AL"
+    },
+    {
+      "id": 94701,
+      "name": "Big TERRACE APARTMENT / city center",
+      "host_name": "Gundega",
+      "neighbourhood_group": "PORTO",
+      "price": 73.0,
+      "last_review": "2025-09-15",
+      "license": "85541/AL"
+    },
+    {
+      "id": 96394,
+      "name": "Boat Blue Days",
+      "host_name": "Manuel",
+      "neighbourhood_group": "VILA NOVA DE GAIA",
+      "price": null,
+      "last_review": "2023-09-25",
+      "license": "90/2015"
+    },
+    {
+      "id": 100521,
+      "name": "casa de praia",
+      "host_name": "Isabel Morgado",
+      "neighbourhood_group": "VILA NOVA DE GAIA",
+      "price": null,
+      "last_review": null,
+      "license": null
+    },
+    {
+      "id": 104045,
+      "name": "Porto Sky Duplex Penthouse",
+      "host_name": "Aida",
+      "neighbourhood_group": "PORTO",
+      "price": null,
+      "last_review": "2025-01-02",
+      "license": "11205/AL"
+    },
+    {
+      "id": 105347,
+      "name": "Minha casinha / My little house",
+      "host_name": "Manuel",
+      "neighbourhood_group": "VILA NOVA DE GAIA",
+      "price": 77.0,
+      "last_review": "2025-09-04",
+      "license": "135964/AL"
+    },
+    {
+      "id": 14820184,
+      "name": "Single room near El Corte Inglés",
+      "host_name": "Priscilla",
+      "neighbourhood_group": "VILA NOVA DE GAIA",
+      "price": 25.0,
+      "last_review": "2025-08-30",
+      "license": "56031/2017"
+    },
+    {
+      "id": 14820633,
+      "name": "Single room near El corte inglés",
+      "host_name": "Priscilla",
+      "neighbourhood_group": "VILA NOVA DE GAIA",
+      "price": 21.0,
+      "last_review": "2025-08-11",
+      "license": "56031/AL"
+    },
+    {
+      "id": 14821291,
+      "name": "Casa do Caldas  - Suite 1",
+      "host_name": "António",
+      "neighbourhood_group": "VILA DO CONDE",
+      "price": null,
+      "last_review": "2025-08-21",
+      "license": "13611/AL"
+    },
+    {
+      "id": 14824708,
+      "name": "Terrace Apartment",
+      "host_name": "Alexandra",
+      "neighbourhood_group": "PORTO",
+      "price": 60.0,
+      "last_review": "2025-08-20",
+      "license": "56281/AL"
+    },
+    {
+      "id": 14848151,
+      "name": "Casa das Flores",
+      "host_name": "Luis",
+      "neighbourhood_group": "SANTO TIRSO",
+      "price": 57.0,
+      "last_review": "2025-08-08",
+      "license": "Exempt"
+    },
+    {
+      "id": 14851194,
+      "name": "City Centre Historic Suite #2",
+      "host_name": "Manuel Steps 241",
+      "neighbourhood_group": "PORTO",
+      "price": 53.0,
+      "last_review": "2025-09-04",
+      "license": "31983/AL"
+    },
+    {
+      "id": 14856954,
+      "name": "Porto 1870 Sunny Loft w/Balcony",
+      "host_name": "Daniel",
+      "neighbourhood_group": "PORTO",
+      "price": 95.0,
+      "last_review": "2025-08-22",
+      "license": "52604/AL"
+    },
+    {
+      "id": 14865753,
+      "name": "Infante Apartment",
+      "host_name": "Filipa",
+      "neighbourhood_group": "PORTO",
+      "price": null,
+      "last_review": "2023-01-07",
+      "license": "33003/AL"
+    },
+    {
+      "id": 14877541,
+      "name": "Porto Central  2",
+      "host_name": "Conceição",
+      "neighbourhood_group": "PORTO",
+      "price": 75.0,
+      "last_review": "2025-08-30",
+      "license": "15118/Al"
+    },
+    {
+      "id": 14886712,
+      "name": "Oportobestview-River",
+      "host_name": "Jorge",
+      "neighbourhood_group": "PORTO",
+      "price": 74.0,
+      "last_review": "2025-08-10",
+      "license": "37146/AL"
+    },
+    {
+      "id": 14923525,
+      "name": "Cozy Place with a Garden",
+      "host_name": "Célia Pedro",
+      "neighbourhood_group": "MAIA",
+      "price": 41.0,
+      "last_review": "2025-09-20",
+      "license": "48186/AL."
+    },
+    {
+      "id": 14938231,
+      "name": "Ribeira Charming Apartment I (Renewed 2022)",
+      "host_name": "João",
+      "neighbourhood_group": "PORTO",
+      "price": 143.0,
+      "last_review": "2025-09-15",
+      "license": "35739/AL"
+    },
+    {
+      "id": 14964012,
+      "name": "Ribeira Charming Apartment II",
+      "host_name": "João",
+      "neighbourhood_group": "PORTO",
+      "price": 120.0,
+      "last_review": "2025-08-27",
+      "license": "35741/AL"
+    },
+    {
+      "id": 14976547,
+      "name": "Oporto Thom beach apartment",
+      "host_name": "Andre",
+      "neighbourhood_group": "VILA NOVA DE GAIA",
+      "price": 64.0,
+      "last_review": "2025-08-21",
+      "license": "38847/AL"
+    },
+    {
+      "id": 14978290,
+      "name": "Serpa Beach House",
+      "host_name": "Mário",
+      "neighbourhood_group": "MATOSINHOS",
+      "price": 54.0,
+      "last_review": "2025-09-09",
+      "license": "135579/AL"
+    },
+    {
+      "id": 14989688,
+      "name": "Clerigos.H-Duplex Apartment (3.Floor)",
+      "host_name": "Elísio",
+      "neighbourhood_group": "PORTO",
+      "price": 91.0,
+      "last_review": "2025-09-05",
+      "license": "23007/AL"
+    },
+    {
+      "id": 1488491956277255682,
+      "name": "Porto Blue House comfort",
+      "host_name": "Antonio",
+      "neighbourhood_group": "PORTO",
+      "price": 112.0,
+      "last_review": null,
+      "license": "154844/AL"
+    },
+    {
+      "id": 1489066887975894113,
+      "name": "Suíte Casa Aurora",
+      "host_name": "Raquel",
+      "neighbourhood_group": "GONDOMAR",
+      "price": 36.0,
+      "last_review": "2025-09-09",
+      "license": "168415/AL"
+    },
+    {
+      "id": 1489129709567710680,
+      "name": "Quarto de casal Azul",
+      "host_name": "Raquel",
+      "neighbourhood_group": "GONDOMAR",
+      "price": 33.0,
+      "last_review": "2025-09-10",
+      "license": "168415/AL"
+    },
+    {
+      "id": 1489139384534496873,
+      "name": "Blue Leça T0 3º andar/Frente",
+      "host_name": "Inês",
+      "neighbourhood_group": "MATOSINHOS",
+      "price": 100.0,
+      "last_review": null,
+      "license": "Exempt"
+    }
+  ],
+  "lisboa.listings": [
+    { "id": "lis_1", "name": "Alfama River View", "host_name": "Maria", "neighbourhood_group": "Alfama", "price": 85.0, "last_review": "2025-09-01", "license": "10293/AL" },
+    { "id": "lis_2", "name": "Chiado Luxury Flat", "host_name": "João", "neighbourhood_group": "Chiado", "price": 140.0, "last_review": "2025-08-20", "license": "39482/AL" },
+    { "id": "lis_3", "name": "Bairro Alto Room", "host_name": "Maria", "neighbourhood_group": "Bairro Alto", "price": 45.0, "last_review": "2025-09-10", "license": "Exempt" },
+    { "id": "lis_4", "name": "Belém Historic House", "host_name": "Pedro", "neighbourhood_group": "Belém", "price": 150.0, "last_review": "2025-07-15", "license": "19283/AL" },
+    { "id": "lis_5", "name": "Cheap Room Arroios", "host_name": "Ana", "neighbourhood_group": "Arroios", "price": 25.0, "last_review": "2025-09-05", "license": "Exempt" },
+    { "id": "lis_6", "name": "Príncipe Real Loft", "host_name": "João", "neighbourhood_group": "Príncipe Real", "price": 110.0, "last_review": "2025-08-30", "license": "10293/AL" },
+    { "id": "lis_7", "name": "Baixa Hostel Bed", "host_name": "Hostel LIS", "neighbourhood_group": "Baixa", "price": 20.0, "last_review": "2025-09-12", "license": "RNET 8392" },
+    { "id": "lis_8", "name": "Parque das Nações Expo", "host_name": "Carla", "neighbourhood_group": "Parque das Nações", "price": 130.0, "last_review": "2025-06-20", "license": "29384/AL" },
+    { "id": "lis_9", "name": "Avenida Liberdade Suite", "host_name": "Hotel Group", "neighbourhood_group": "Avenida da Liberdade", "price": 350.0, "last_review": "2025-09-01", "license": "RNET 1029" },
+    { "id": "lis_10", "name": "Mouraria Fado House", "host_name": "Maria", "neighbourhood_group": "Mouraria", "price": 75.0, "last_review": "2025-08-15", "license": "Exempt" },
+    { "id": "lis_11", "name": "Castelo São Jorge View", "host_name": "Rui", "neighbourhood_group": "Castelo", "price": 160.0, "last_review": "2025-09-08", "license": "48201/AL" },
+    { "id": "lis_12", "name": "Graça Sunny Terrace", "host_name": "Rui", "neighbourhood_group": "Graça", "price": 90.0, "last_review": "2025-07-22", "license": "48201/AL" },
+    { "id": "lis_13", "name": "Campo de Ourique Flat", "host_name": "Sofia", "neighbourhood_group": "Campo de Ourique", "price": 55.0, "last_review": "2025-08-05", "license": "Exempt" },
+    { "id": "lis_14", "name": "Estrela Garden House", "host_name": "Sofia", "neighbourhood_group": "Estrela", "price": 125.0, "last_review": "2025-09-02", "license": "19283/AL" },
+    { "id": "lis_15", "name": "Alcantara Industrial Loft", "host_name": "Tiago", "neighbourhood_group": "Alcântara", "price": 100.0, "last_review": "2025-08-18", "license": "58291/AL" },
+    { "id": "lis_16", "name": "Saldanha Modern Room", "host_name": "Ana", "neighbourhood_group": "Avenidas Novas", "price": 60.0, "last_review": "2025-09-09", "license": "Exempt" },
+    { "id": "lis_17", "name": "Rossio Central Spot", "host_name": "Pedro", "neighbourhood_group": "Baixa", "price": 145.0, "last_review": "2025-08-25", "license": "19283/AL" },
+    { "id": "lis_18", "name": "Santos Design Flat", "host_name": "Design Stays", "neighbourhood_group": "Santos", "price": 115.0, "last_review": "2025-07-30", "license": "67291/AL" },
+    { "id": "lis_19", "name": "Intendente Hipster Room", "host_name": "Luis", "neighbourhood_group": "Arroios", "price": 40.0, "last_review": "2025-09-05", "license": "Exempt" },
+    { "id": "lis_20", "name": "Cais do Sodré Party Flat", "host_name": "Maria", "neighbourhood_group": "Misericórdia", "price": 130.0, "last_review": "2025-08-12", "license": "29384/AL" },
+    { "id": "lis_21", "name": "Lapa Diplomatic Suite", "host_name": "Helena", "neighbourhood_group": "Estrela", "price": 180.0, "last_review": "2025-09-01", "license": "82910/AL" },
+    { "id": "lis_22", "name": "Ajuda Palace View", "host_name": "Pedro", "neighbourhood_group": "Ajuda", "price": 95.0, "last_review": "2025-08-28", "license": "RNET 2938" },
+    { "id": "lis_23", "name": "Penha de França Cozy", "host_name": "Ana", "neighbourhood_group": "Penha de França", "price": 38.0, "last_review": "2025-09-03", "license": "Exempt" },
+    { "id": "lis_24", "name": "Areeiro Family Apt", "host_name": "Carla", "neighbourhood_group": "Areeiro", "price": 105.0, "last_review": "2025-07-18", "license": "29384/AL" },
+    { "id": "lis_25", "name": "Benfica Football Fan", "host_name": "Tiago", "neighbourhood_group": "Benfica", "price": 45.0, "last_review": "2025-08-22", "license": "Exempt" },
+    { "id": "lis_26", "name": "Santa Apolónia River", "host_name": "Rui", "neighbourhood_group": "São Vicente", "price": 88.0, "last_review": "2025-09-06", "license": "48201/AL" },
+    { "id": "lis_27", "name": "Marquês de Pombal Lux", "host_name": "Hotel Group", "neighbourhood_group": "Santo António", "price": 280.0, "last_review": "2025-08-10", "license": "RNET 9912" },
+    { "id": "lis_28", "name": "Restauradores Studio", "host_name": "João", "neighbourhood_group": "Santa Maria Maior", "price": 100.0, "last_review": "2025-09-11", "license": "39482/AL" },
+    { "id": "lis_29", "name": "Olaias Budget Flat", "host_name": "Luis", "neighbourhood_group": "Beato", "price": 65.0, "last_review": "2025-08-01", "license": "Exempt" },
+    { "id": "lis_30", "name": "Entrecampos Business", "host_name": "Design Stays", "neighbourhood_group": "Alvalade", "price": 120.0, "last_review": "2025-09-08", "license": "67291/AL" }
+  ],
+  "barcelona.listings": [
+    { "id": "bcn_01", "name": "Sagrada Familia View", "host_name": "Jordi", "neighbourhood_group": "Eixample", "price": 140.0, "last_review": "2025-09-01", "license": "HUTB-001029" },
+    { "id": "bcn_02", "name": "Gothic Historic Flat", "host_name": "Elena", "neighbourhood_group": "Barri Gòtic", "price": 110.0, "last_review": "2025-08-25", "license": "HUTB-003948" },
+    { "id": "bcn_03", "name": "Barceloneta Beach", "host_name": "Jordi", "neighbourhood_group": "Barceloneta", "price": 160.0, "last_review": "2025-09-10", "license": "HUTB-002129" },
+    { "id": "bcn_04", "name": "Raval Budget Room", "host_name": "Carlos", "neighbourhood_group": "El Raval", "price": 40.0, "last_review": "2025-07-20", "license": "Exempt" },
+    { "id": "bcn_05", "name": "Gràcia Bohemian Studio", "host_name": "Laia", "neighbourhood_group": "Gràcia", "price": 95.0, "last_review": "2025-09-05", "license": "HUTB-009283" },
+    { "id": "bcn_06", "name": "Poble Sec Shared Dorm", "host_name": "Hostel BCN", "neighbourhood_group": "Poble Sec", "price": 25.0, "last_review": "2025-08-30", "license": "AJUNTAMENT" },
+    { "id": "bcn_07", "name": "Eixample Luxury Suite", "host_name": "Elena", "neighbourhood_group": "Eixample", "price": 250.0, "last_review": "2025-09-12", "license": "HB-003948" },
+    { "id": "bcn_08", "name": "Ramblas Apartment", "host_name": "Sofia", "neighbourhood_group": "Barri Gòtic", "price": 130.0, "last_review": "2025-06-20", "license": "HUTB-002938" },
+    { "id": "bcn_09", "name": "Park Guell Room", "host_name": "Jordi", "neighbourhood_group": "Gràcia", "price": 50.0, "last_review": "2025-09-01", "license": "Exempt" },
+    { "id": "bcn_10", "name": "Born Trendy Loft", "host_name": "Laia", "neighbourhood_group": "El Born", "price": 115.0, "last_review": "2025-08-15", "license": "HUTB-009283" },
+    { "id": "bcn_11", "name": "Camp Nou Fan Flat", "host_name": "Carlos", "neighbourhood_group": "Les Corts", "price": 90.0, "last_review": "2025-09-08", "license": "HUTB-001928" },
+    { "id": "bcn_12", "name": "Montjuïc Views", "host_name": "Sofia", "neighbourhood_group": "Sants-Montjuïc", "price": 105.0, "last_review": "2025-07-22", "license": "HUTB-002938" },
+    { "id": "bcn_13", "name": "Passeig de Gracia Lux", "host_name": "Elena", "neighbourhood_group": "Eixample", "price": 220.0, "last_review": "2025-08-05", "license": "HUTB-003948" },
+    { "id": "bcn_14", "name": "Sant Antoni Hipster", "host_name": "Laia", "neighbourhood_group": "Sant Antoni", "price": 55.0, "last_review": "2025-09-02", "license": "Exempt" },
+    { "id": "bcn_15", "name": "Diagonal Mar Sea", "host_name": "Marc", "neighbourhood_group": "Sant Martí", "price": 150.0, "last_review": "2025-08-18", "license": "HUTB-005829" },
+    { "id": "bcn_16", "name": "Poblenou Tech Hub", "host_name": "Marc", "neighbourhood_group": "Poblenou", "price": 125.0, "last_review": "2025-09-09", "license": "HUTB-005829" },
+    { "id": "bcn_17", "name": "Sants Station Handy", "host_name": "Carlos", "neighbourhood_group": "Sants", "price": 45.0, "last_review": "2025-08-25", "license": "Exempt" },
+    { "id": "bcn_18", "name": "Tibidabo Hill House", "host_name": "Jordi", "neighbourhood_group": "Sarrià-Sant Gervasi", "price": 180.0, "last_review": "2025-07-30", "license": "HUTB-001029" },
+    { "id": "bcn_19", "name": "Horta Labyrinth", "host_name": "Ana", "neighbourhood_group": "Horta-Guinardó", "price": 35.0, "last_review": "2025-09-05", "license": "Exempt" },
+    { "id": "bcn_20", "name": "Vila Olímpica Port", "host_name": "Marc", "neighbourhood_group": "Vila Olímpica", "price": 170.0, "last_review": "2025-08-12", "license": "HUTB-005829" },
+    { "id": "bcn_21", "name": "Clot Local Flat", "host_name": "Ana", "neighbourhood_group": "El Clot", "price": 80.0, "last_review": "2025-09-01", "license": "HUTB-007283" },
+    { "id": "bcn_22", "name": "Glòries Design", "host_name": "Design BCN", "neighbourhood_group": "Glòries", "price": 135.0, "last_review": "2025-08-28", "license": "HUTB-006729" },
+    { "id": "bcn_23", "name": "Pedralbes Quiet Zone", "host_name": "Elena", "neighbourhood_group": "Les Corts", "price": 200.0, "last_review": "2025-09-03", "license": "HUTB-003948" },
+    { "id": "bcn_24", "name": "Sagrera Family Apt", "host_name": "Carla", "neighbourhood_group": "Sant Andreu", "price": 95.0, "last_review": "2025-07-18", "license": "HUTB-002938" },
+    { "id": "bcn_25", "name": "Forum Sea Breeze", "host_name": "Marc", "neighbourhood_group": "Sant Martí", "price": 140.0, "last_review": "2025-08-22", "license": "HUTB-005829" },
+    { "id": "bcn_26", "name": "Carmel Bunker View", "host_name": "Jordi", "neighbourhood_group": "Horta-Guinardó", "price": 60.0, "last_review": "2025-09-06", "license": "Exempt" },
+    { "id": "bcn_27", "name": "Plaça Catalunya Center", "host_name": "Hotel Group", "neighbourhood_group": "Eixample", "price": 300.0, "last_review": "2025-08-10", "license": "HB-005822" },
+    { "id": "bcn_28", "name": "Arc de Triomf Studio", "host_name": "Sofia", "neighbourhood_group": "Eixample", "price": 115.0, "last_review": "2025-09-11", "license": "HUTB-002938" },
+    { "id": "bcn_29", "name": "Nou Barris Budget", "host_name": "Luis", "neighbourhood_group": "Nou Barris", "price": 30.0, "last_review": "2025-08-01", "license": "Exempt" },
+    { "id": "bcn_30", "name": "Parallel Theater Dist", "host_name": "Carlos", "neighbourhood_group": "Poble Sec", "price": 85.0, "last_review": "2025-09-08", "license": "HUTB-001928" }
+  ]
+}

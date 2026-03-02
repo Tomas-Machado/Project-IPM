@@ -1,0 +1,48 @@
+:root {
+    --font-family-lato: 'Lato', sans-serif;
+    --font-family-league-gothic: 'League Gothic', sans-serif;
+    --text-white: #ffffff;
+    --text-dark: rgba(56,56,56,1);
+    --text-red: #c5221f;
+    --bg-beige: #ffedcb;
+    --footer-bg: #333333;
+    --footer-height: 120px;
+    --signin-footer-height: 64px;
+    --top-gutter: 16px;
+}
+
+/* Reset Global */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; }
+html, body, #app {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+
+body {font-family: var(--font-family-lato);
+    min-height: 100vh;
+    background-color: var(--bg-beige);
+    color: #222;text-align: center;
+    padding-bottom: var(--footer-height);
+    display: flex;
+    flex-direction: column;
+}
+
+/* Links Globais */
+a { text-decoration: none; color: inherit; }
+ul { list-style: none; }
+
+.left-rail {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    bottom: 0 !important;
+    height: 100vh !important;
+    padding-top: 92px !important;
+    padding-bottom: 84px !important;
+    z-index: 1400 !important;
+    box-sizing: border-box !important;
+}
