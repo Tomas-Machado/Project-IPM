@@ -33,10 +33,13 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 ### 2. Installation
 Navigate to the project root and install the necessary dependencies:
-npm install
+```bash
+  npm install
+```
 
 ### 3. Development Server
 Run the application locally with hot-reload:
+```bash
 npm run dev
-
+```
 Open your browser and navigate to the local address provided (typically http://localhost:5173/)
